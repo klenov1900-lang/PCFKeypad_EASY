@@ -124,7 +124,7 @@ void loop() {
 
 | 📂 示例 | 📝 描述 | 📦 依赖项 |
 |---|---|---|
-| **Basic** | 最小示例 — 将按键输出到串口 | `PCFKeypad_EASY` |
+| **basic** | 最小示例 — 将按键输出到串口 | `PCFKeypad_EASY` |
 | **Custom** | 自定义引脚和布局 | `PCFKeypad_EASY` |
 > **注意：** 示例 `Custom` 演示了如何通过 `pcfpad_init_custom()` 使用非标准键盘。
 
