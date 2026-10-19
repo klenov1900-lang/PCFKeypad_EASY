@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For PCFKeypad_EASY
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+pcfpad_init	KEYWORD2
+pcfpad_init_custom	KEYWORD2
+pcfpad_get_key	KEYWORD2
+pcfpad_get_current	KEYWORD2
+pcfpad_is_pressed	KEYWORD2
+pcfpad_is_connected	KEYWORD2
+pcfpad_get_error	KEYWORD2
+pcfpad_reset	KEYWORD2
+pcfpad_set_debounce	KEYWORD2
+pcfpad_set_hold_delay	KEYWORD2
+pcfpad_set_repeat_delay	KEYWORD2
+pcfpad_set_scan_interval	KEYWORD2
+pcfpad_set_active_low	KEYWORD2
+pcfpad_set_power_save	KEYWORD2
+pcfpad_set_power_save_timeout	KEYWORD2
+pcfpad_is_power_save	KEYWORD2
+pcfpad_handle_interrupt	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+PCFPAD_ADDR_DEFAULT	LITERAL1
+PCFPAD_KEY_RELEASED	LITERAL1
+PCFPAD_KEY_PRESSED	LITERAL1
+PCFPAD_KEY_HOLD	LITERAL1
+PCFPAD_KEY_ERROR	LITERAL1
