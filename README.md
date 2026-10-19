@@ -1,4 +1,4 @@
-# ⌨️ PCFKeypad_EASYY
+# ⌨️ PCFKeypad_EASY
 
 **Языки:** Русский · [中文](README_CN.md)
 
